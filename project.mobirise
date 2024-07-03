@@ -68,7 +68,9 @@
     "uniqCompNum": 36,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
-    "site_lang": "en"
+    "site_lang": "en",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
