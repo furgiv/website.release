@@ -1,10 +1,15 @@
 @font-face {
-   font-family: 'Finesse-Roman';
+   font-family: 'Ephesis-Regular';
    font-display: swap;
-   src: url('Finesse-Roman/font.woff');
+   src: url('Ephesis-Regular/font.ttf');
 }
 @font-face {
-   font-family: 'DanhDa-Bold';
+   font-family: 'MJ-Modern-Regular';
    font-display: swap;
-   src: url('DanhDa-Bold/font.woff');
+   src: url('MJ-Modern-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'NVN-Motherland-Signature';
+   font-display: swap;
+   src: url('NVN-Motherland-Signature/font.ttf');
 }
