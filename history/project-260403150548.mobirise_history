@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FurGIV2026 - VN",
-    "currentPage": "index.html",
+    "currentPage": "en.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -52,18 +52,6 @@
         "css": "'Inter Tight', sans-serif",
         "name": "Inter Tight",
         "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
-      },
-      {
-        "css": "'Ephesis-Regular'",
-        "name": "Ephesis-Regular",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Ephesis-Regular/font.ttf"
-      },
-      {
-        "css": "'MJ-Modern-Regular'",
-        "name": "MJ-Modern-Regular",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/MJ-Modern-Regular/font.ttf"
       },
       {
         "css": "'Ephesis-Regular'",
