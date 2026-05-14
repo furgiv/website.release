@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Ephesis-Regular';
+   font-display: swap;
+   src: url('Ephesis-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'MJ-Modern-Regular';
+   font-display: swap;
+   src: url('MJ-Modern-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'NVN-Motherland-Signature';
+   font-display: swap;
+   src: url('NVN-Motherland-Signature/font.ttf');
+}
